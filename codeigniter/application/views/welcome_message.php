@@ -81,7 +81,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2jgjhg014</p>
+        <p>&copy; Company 2jgjhhgkjhkjhg014</p>
       </footer>
     </div> <!-- /container -->
 
