@@ -81,7 +81,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2jgjhg014</p>
+        <p>&copy; Adrenture 2014</p>
       </footer>
     </div> <!-- /container -->
 
