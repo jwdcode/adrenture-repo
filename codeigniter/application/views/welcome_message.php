@@ -81,7 +81,7 @@
       <hr>
 
       <footer>
-        <p>&copy; --  Adrenture 2014 -- </p>
+        <p>&copy; --  Adrenture somethin 2014 -- </p>
       </footer>
     </div> <!-- /container -->
 
