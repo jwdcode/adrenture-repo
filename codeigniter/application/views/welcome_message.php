@@ -28,7 +28,7 @@
 
   <body>
       <?php
-      print 'OK im printing something';      
+      print 'OK we\'ll be printing something';      
       ?>
 
     <div class="container">
