@@ -28,9 +28,10 @@
 
   <body>
     <div class="container">
+         <!--search-->
          <h3 class="small-header">Search by:</h3>
-           <form action="dummy" method="post">
-               <select name="choice" size="1">
+           <form class="center" action="dummy" method="post">
+               <select class="center" "name="choice" size="1">
                    <option value="">CHOOSE ONE</option>
                    <option value="locationlink">Location</option>
                    <option value="ItemCategoryLink">Item Category</option>
@@ -40,6 +41,7 @@
                <input TYPE="button" VALUE="GO!" onClick="jump(this.form)">
            </form>
      
+      <!--sign in-->
       <form class="form-signin" role="form">
         <input type="email" class="form-control" placeholder="Email address" required autofocus>
         <input type="password" class="form-control" placeholder="Password" required>
