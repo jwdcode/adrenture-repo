@@ -29,8 +29,9 @@
   <body>
     <div class="container">
          <!--search-->
+         <center>
          <h3>Search by:</h3>
-         <form class="center" action="dummy" method="post">
+         <form action="dummy" method="post">
                <select name="choice" size="1">
                    <option value="">CHOOSE ONE</option>
                    <option value="locationlink">Location</option>
@@ -40,7 +41,7 @@
                </select>
                <input TYPE="button" VALUE="GO!" onClick="jump(this.form)">
            </form>
-                
+         </center>       
       <!--sign in-->
       <form class="form-signin" role="form">
         <input type="email" class="form-control" placeholder="Email address" required autofocus>
