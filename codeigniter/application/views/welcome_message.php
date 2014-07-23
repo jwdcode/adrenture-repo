@@ -29,8 +29,8 @@
   <body>
     <div class="container">
          <!--search-->
-         <div class="center" 
-         <h3 Search by:</h3>
+         <div class="center">
+              <h3>Search by:</h3>
            <form action="dummy" method="post">
                <select name="choice" size="1">
                    <option value="">CHOOSE ONE</option>
