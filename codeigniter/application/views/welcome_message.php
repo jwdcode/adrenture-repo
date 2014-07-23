@@ -28,7 +28,8 @@
 
   <body>
       <?php
-      print 'OK we\'ll be \n printing something';      
+      $price = 9; $tax = .8;
+      printf('It costs $%.3f', $price * (1 + $tax));      
       ?>
 
     <div class="container">
