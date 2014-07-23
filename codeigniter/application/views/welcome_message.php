@@ -28,7 +28,6 @@
 
   <body>
     <div class="container">
-        //search by 
          <h3 class="small-header">Search by:</h3>
            <form action="dummy" method="post">
                <select name="choice" size="1">
@@ -40,8 +39,7 @@
                </select>
                <input TYPE="button" VALUE="GO!" onClick="jump(this.form)">
            </form>
-         
-      //sign in form
+     
       <form class="form-signin" role="form">
         <input type="email" class="form-control" placeholder="Email address" required autofocus>
         <input type="password" class="form-control" placeholder="Password" required>
