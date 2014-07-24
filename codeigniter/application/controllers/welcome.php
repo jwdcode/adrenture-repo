@@ -23,7 +23,7 @@ class Welcome extends CI_Controller {
 	}
 
         public function test() {
- $this->load->database();
+              $this->load->database();
               $result = $this->db->query('SELECT * FROM test');
 		var_dump($result->result());
         }
