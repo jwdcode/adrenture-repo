@@ -26,12 +26,9 @@
     <![endif]-->
   </head>
 
-  <body>
-       <?php
-          echo \base_url() . 'images/adrenture.png';
-        ?>
-       
+  <body> 
     <div class="container">
+        <img src="<?php echo base_url() . 'images/adrenture.png'; ?>" />
         <!--search-->
          <center>
          <h3>Search by:</h3>
