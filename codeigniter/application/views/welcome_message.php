@@ -27,8 +27,8 @@
   </head>
 
   <body>
-      <?php
-          echo base_url();
+       <?php
+          echo \base_url() . 'images/adrenture.png';
         ?>
        
     <div class="container">
