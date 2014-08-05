@@ -27,8 +27,12 @@
   </head>
 
   <body>
+      <php
+          echo base_url();
+        ?>
+       
     <div class="container">
-         <!--search-->
+        <!--search-->
          <center>
          <h3>Search by:</h3>
          <form action="dummy" method="post">
