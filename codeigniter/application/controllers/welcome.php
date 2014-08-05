@@ -16,6 +16,6 @@ class Welcome extends CI_Controller {
         public function test() {
               
               $result = $this->Test->getAllTests();    
-        var_dump($result->result());
+              var_dump($result);
         }
 }
