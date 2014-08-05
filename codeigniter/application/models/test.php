@@ -9,7 +9,7 @@ class Test extends CI_Model {
        public function getAllTests() {
        
 
-$query = $this->db->get(‘test');
+$query = $this->db->get('test');
        return $query->result();
   
 
